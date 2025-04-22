@@ -8,9 +8,9 @@ An intelligent, contactless smart dustbin system powered by **Arduino Uno**, **U
 
 ## 👨‍💻 Author Information
 
-- **👤 Name**: Aniket Raj  
+- **👤 Name**: Sahil Patial 
 - **📘 Branch**: MCA AIML  
-- **🎓 UID**: 23MCI10149  
+- **🎓 UID**: 23MCI10168  
 - **📚 Semester**: 4th  
 - **📆 Date of Performance**: 21/04/25  
 - **📖 Subject**: Internet of Things (23CAH 702)
